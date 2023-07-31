@@ -1,5 +1,4 @@
 # LandingPage-FancyBox
-![Landing-1](https://github.com/spraveensundar/LandingPage-FancyBox/assets/131776093/adac659b-b186-467e-ac93-9bedbdb41654)
 ![Landing-1](https://github.com/spraveensundar/LandingPage-FancyBox/assets/131776093/822ec76b-f43b-4e09-a89b-06eea340e495)
 ![Landing-2](https://github.com/spraveensundar/LandingPage-FancyBox/assets/131776093/2f5a1469-3faf-4f25-9b0f-0fcc8f188b0c)
 ![Landing-3](https://github.com/spraveensundar/LandingPage-FancyBox/assets/131776093/c3e95897-ce0f-413f-90be-721468196a22)
