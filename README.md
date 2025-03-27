@@ -1,4 +1,10 @@
 # LandingPage-FancyBox
+
+- Responsive layout using Bootstrap.
+- Image gallery with FancyBox.
+- Smooth scroll animations with AOS.
+- Icons from FontAwesome.
+  
 ![Landing-1](https://github.com/spraveensundar/LandingPage-FancyBox/assets/131776093/76e28313-b2d8-4fd4-8b84-2e7bdce2f025)
 
 ![Landing-2](https://github.com/spraveensundar/LandingPage-FancyBox/assets/131776093/854ca5b9-7238-4379-a5dd-a52725fcfdcf)
